@@ -5,6 +5,8 @@
 
 ---
 permalink: /
+redirect_from: 
+     - /about
 ---
 
 I am a DPhil student in the [Foster Lab](https://zoo-kfoster.zoo.ox.ac.uk) at the University of Oxford. I am on the [Interdisciplinary Bioscience DTP](https://www.biodtp.ox.ac.uk) programme (2018-22), funded by the UKRI BBSRC, at Magdalen College. 
