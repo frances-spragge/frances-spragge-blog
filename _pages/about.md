@@ -1,6 +1,5 @@
 ---
-permalink: /
-redirect_from: /about/
+permalink: /about/
 title: "About me"
 ---
 
