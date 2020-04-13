@@ -65,7 +65,7 @@ author:
     #  url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/francesspragge"
+      url: "https://twitter.com/francesspragge1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/frances-spragge"
@@ -77,13 +77,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/francesspragge1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/frances-spragge"
+   # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+   #   url: "https://instagram.com/"
 
 defaults:
   # _posts
