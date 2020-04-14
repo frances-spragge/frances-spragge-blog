@@ -16,7 +16,7 @@
 title: Frances Spragge
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- DPhil student at Magdalen College, University of Oxford
+ DPhil student at the University of Oxford
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Frances Spragge"
   avatar : "/assets/images/ImagefromiOS.jpg"
-  bio    : "DPhil student at the University of Oxford"
+  bio    : "DPhil student at Magdalen College, University of Oxford"
   links:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
